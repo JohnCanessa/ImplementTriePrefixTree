@@ -9,7 +9,7 @@ for the solution and added a few things.
 If interested in my comments and approach I invite yout to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/12/leetcode-208-implement-trie-prefix-tree-in-java/
 
 Remember that one of the best ways to learn is to read and
 experiment, and repeat. They say that practice makes perfect.
